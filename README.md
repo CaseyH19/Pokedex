@@ -1,5 +1,5 @@
 # Pokedex
-Pokedex of all 718 pokemon using pokeapi.co version 2.
+Pokedex of all 718 pokemon using pokeapi.co version 2 along with Alamofire.
 
 
 Contains a collection view of order pokemon that when clicked gives an overview of the Pokemon's stats along with their moves.
